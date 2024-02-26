@@ -68,7 +68,7 @@
 ```
 
 ```jsx
-<YyyAnchoor />
+<YyyAnchor />
 ```
 
 ```jsx
